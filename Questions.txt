@@ -1,0 +1,120 @@
+------- Python Questions -------
+
+1. Program to add two numbers. 
+2. Program to find square root of a number.
+3. Program to calculate area of triangle. 
+4. Program to swap two variables.
+5. Program to convert celsius to fahrenheit.
+6. Program to check if a number is positive, negative or zero.
+7. Program to check if a number is even or odd. 
+8. Program to find largest number among three numbers.
+9. Program that check if a string is empty or not.
+10. Program to check if a character is a vowel or consonant.
+11. Program to find if a given number is a prime number or not.
+12. Program to check leap year.
+13. Program to print the numbers from 1 to 20.
+14. Program to print even numbers from 1 to 20.
+15. Program to print the square numbers from 1 to 10.
+16. Program that asks the user for a number and uses a loop to print the multiples of that number up to 10.
+17. Program that asks the user to enter a string and uses a loop to count the number of characters in the string.
+18. Program that asks the user for a number and uses a loop to calculate its factorial.
+19. Program that generates a random number between 1 and 10 and asks the user to guess the number. The program should continue asking for guesses until the user guesses correctly.
+20. Program that asks the user for a number and uses a loop to print a triangle pattern of asterisks. The number of rows in the triangle should be equal to the entered number.
+21. Program that asks the user to enter a string and uses a loop to count the number of vowels (a, e, i, o, u) in the string.
+22. Program that calculates the sum of all even numbers from 1 to 50 using a loop
+23. Program to display the multiplication table. 
+24. Program to print the Fibonacci Sequence.
+25. Program to check Armstrong number.
+26. Program to find Armstrong Number in an interval.
+27. Program to display powers of 2 using anonymous function.
+28. Program to print a given string in uppercase.
+29. Program to check if a given string is a palindrome or not.
+30. Program to concatenate two strings.
+31. Program to reverse a string.
+32. Program to remove the vowels from a string.
+33. Program to count the occurrences of a specific character in a string.
+34. Program to check if a given string is an anagram of another string.
+35. Program to find the length of the longest word in a sentence.
+36. Program to capitalize the first letter of each word in a sentence.
+37. Program to check if a given string starts with a specific prefix.
+38. Program to check if a given string ends with a specific suffix.
+39. Program to extract the file extension from a given file name.
+40. Program to replace all occurrences of a specific word in a string with another word.
+41. Program to split a string into a list of words.
+42. Program to print the elements of a list.
+43. Program to find the length of a list.
+44. Program to access the nth element of a list.
+45. Program to append an element to a list.
+46. Program to remove an element from a list.
+47. Program to sort a list in ascending order.
+48. Program to reverse a list.
+49. Program to find the maximum and minimum elements in a list.
+50. Program to check if a given element exists in a list.
+51. Program to find the sum of all elements in a list.
+52. Program to print the elements of a tuple.
+53. Program to find the length of a tuple.
+54. Program to access the nth element of a tuple.
+55. Program to concatenate two tuples.
+56. Program to convert a tuple into a list.
+57. Program to check if an element exists in a tuple.
+58. Program to count the occurrences of an element in a tuple.
+59. Program to find the index of an element in a tuple.
+60. Program to find the maximum and minimum elements in a tuple.
+61. Program to slice a tuple.
+62. Function that takes two numbers as arguments and returns their sum.
+63. Function called `calculate_average` that takes a list of numbers as an argument and returns the average (mean) of the numbers.
+64. Function that takes a string as argument and prints its length. 
+65. Function that takes a list of numbers as an argument and returns the sum of all even numbers in the list.
+66. Function that takes a list of strings and a search string as arguments and returns a list of strings containing the search string.
+67. Function that takes a number as an argument and returns "Even" if the number is even, and "Odd" if it's odd.
+68. Function that takes a list of numbers as an argument and returns a new list containing only the positive numbers.
+69. Function that calculates the factorial of a given number using recursion.
+70. Function that takes a string as an argument and returns a dictionary with the count of each character in the string.
+71. Function that calculates the power of a number. It should have a default exponent of 2.
+72. Function that takes a sentence as an argument and returns a list of unique words. Allow the function to ignore case. 
+73. Function that calculates the area of a rectangle given its width and height. Then, write a function that calculates the area of a triangle given its base and height.
+74. Function that takes a list of numbers as an argument and returns the minimum and maximum values as a tuple.
+75. Function that takes a string as an argument and returns the first and last characters as a tuple.
+76. Function that simulates rolling a six-sided dice. It should return a random number between 1 and 6.
+77. Function that generates a random password of a given length. Allow the function to include letters, digits, and special characters.
+78. Recursive function to calculate the nth Fibonacci number.
+79. Recursive function to calculate the factorial of a given number.
+80. Function that takes a list of numbers and a function as arguments and applies the function to each element of the list.
+81. Function that takes a list of strings and a function as arguments and returns a new list containing strings that satisfy the given function.
+82. Program to print the elements of a set.
+83. Program to find the length of a set.
+84. Program to add an element to a set.
+85. Program to remove an element from a set.
+86. Program to perform set union and intersection.
+87. Program to check if an element exists in a set.
+88. Program to find the difference between two sets.
+89. Program to check if two sets are equal or not.
+90. Program to remove duplicates from a list using a set.
+91. Program to convert a list to a set.
+92. Program to print the key-value pairs of a dictionary.
+93. Program to find the length of a dictionary.
+94. Program to access the value associated with a specific key in a dictionary.
+95. Program to add a new key-value pair to a dictionary.
+96. Program to remove a key-value pair from a dictionary.
+97. Program to check if a given key exists in a dictionary.
+98. Program to get a list of all keys in a dictionary.
+99. Program to get a list of all values in a dictionary.
+100. Program to check if a given value exists in a dictionary.
+101. Program to iterate over the key-value pairs of a dictionary.
+102. Program to merge two dictionaries into a new dictionary.
+103. Program to sort a dictionary by its keys.
+104. Program to find the key corresponding to the maximum value in a dictionary.
+105. Program to count the occurrences of each element in a list using a dictionary.
+106. Create a class named Person with attributes 'name' and 'age'.
+107. Create an instance of the Person class and assign the values "Alice" and 30 to name and age respectively.
+108. Create a class called `Person` with attributes `name` and `age`. Implement a method `display_info()` that prints the name and age of a person.
+109. Create a class called `Rectangle` with attributes `length` and `width`. Implement a method `calculate_area()` that returns the area of the rectangle.
+110. Create a class called `Circle` with the attribute `radius`. Implement methods `calculate_circumference()` and `calculate_area()` that return the circumference and area of the circle, respectively.
+111. Create a class called `Student` with attributes `name` and `grade`. Implement a method `get_grade()` that returns the grade of the student as a letter (A, B, C, etc.) based on a grading scale.
+112. Create a class called `BankAccount` with attributes `account_number` and `balance`. Implement methods `deposit()` and `withdraw()` that update the account balance accordingly.
+113. Create a class called `Car` with attributes `make`, `model`, and `year`. Implement a method `start_engine()` that prints a message indicating that the car engine has started.
+114. Create a class called `Book` with attributes `title`, `author`, and `year`. Implement a method `get_book_info()` that prints the title, author, and year of the book.
+115. Create a class called `Triangle` with attributes `base` and `height`. Implement a method `calculate_area()` that returns the area of the triangle.
+116. Create a class called `Dog` with attribute `name`. Implement a method `bark()` that prints a message indicating that the dog is barking.
+117. Create a class called `Employee` with attributes `name`, `position`, and `salary`. Implement a method `calculate_bonus()` that returns a bonus amount based on the employee's position.
+118. Create a Student class with attributes like name, age, and grade. Write a program that allows you to create student objects and display their information.
